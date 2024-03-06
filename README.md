@@ -98,6 +98,9 @@ Cloud Practitioner and Cloud Solution Associate Exam Preparation Notes
 
 ![image](https://github.com/VISHALMACOM/cloudSolutionArchitecture/assets/15323666/056646ba-bd68-47be-90c0-7bf64134423e)
 
+https://aws.amazon.com/elasticloadbalancing/
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/get-started-with-ec2-auto-scaling.html?icmpid=docs_ec2as_help_panel
+
 
 
 
