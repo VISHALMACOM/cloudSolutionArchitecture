@@ -88,6 +88,16 @@ Cloud Practitioner and Cloud Solution Associate Exam Preparation Notes
 
 • Connect to Amazon EC2 instances using Session Manager, a capability of AWS Systems Manager
 
+# Concept4 - Elastic Load Balancing
+
+•	Launching multiple EC2 web servers
+•	Using bootstrapping techniques to configure Linux instances with Apache, PHP, and a simple PHP application downloaded from Amazon Simple Storage Service (S3).
+ 
+•	Creating and configuring a load balancer that will sit in front of your Amazon EC2 web server instances.
+•	Creating and configuring a Auto scaling group to make your application scalable and highly available
+•	Viewing Amazon CloudWatch metrics for the load balancer.
+
+
 
 
 
