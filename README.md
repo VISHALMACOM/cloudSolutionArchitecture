@@ -96,6 +96,8 @@ Cloud Practitioner and Cloud Solution Associate Exam Preparation Notes
     • Creating and configuring a Auto scaling group to make your application scalable and highly available
     • Viewing Amazon CloudWatch metrics for the load balancer.
 
+![image](https://github.com/VISHALMACOM/cloudSolutionArchitecture/assets/15323666/056646ba-bd68-47be-90c0-7bf64134423e)
+
 
 
 
